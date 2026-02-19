@@ -84,8 +84,7 @@
 - [Стоимость владения (TCO) в рублях](stage3/16_tco.md)
 
 ### Презентация для финальной защиты
-- [Презентация PowerPoint](presentation/final_presentation.pptx)
-- [Презентация PDF](presentation/final_presentation.pdf)
+- [Презентация PowerPoint](presentation/Sportivnoe-socialnoe-prilozhenie-dlya-globalnogo-soobshestva.pptx)
 
 ## Условные обозначения
 - `*.md` — файлы в формате Markdown.
